@@ -1,0 +1,2 @@
+# hackerbot
+DiscordBot for TheHiveMind
